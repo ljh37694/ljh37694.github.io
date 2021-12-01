@@ -18,10 +18,11 @@
 - disqus 회원가입
 - jekyll 사이트? 만들기
 - \_config.yml에 아래 코드를 추가
-```comment:
-     provider: "disqus"
-     disqus:
-       shortname: "hoon37694"
+```
+comment:
+  provider: "disqus"
+  disqus:
+    shortname: "hoon37694"
 ```
 - posts.html에 disqus에서 복사한 코드 추가후 앞에 ```{% if page.comments %}``` 뒤에 ```{% endif %}``` 추가
 - post를 작성할 때 ```comments: true```를 입력하면 해당 post에 댓글 기능 추가 
