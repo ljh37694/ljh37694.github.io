@@ -30,7 +30,7 @@ comment:
 
 ## Local에서 실행
 - ```bundle exec jekyll serve``` 입력했는데 ```append --trace``` 어쩌고하면서 오류 발생
-- ```bundle add webrick``` 입력해 ```Gemfile```에 ```gem "webrick", "~> 1.7"```` 추가
+- ```bundle add webrick``` 입력해 ```Gemfile```에 ```gem "webrick", "~> 1.7"``` 추가
 - 다시 ```bundle exec jekyll serve``` 입력
 - 실행 잘 됨
 
