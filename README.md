@@ -16,7 +16,7 @@
 
 ## Disqus를 이용한 댓글 기능 추가
 - disqus 회원가입
-- jekyll 사이트? 만들기
+- disqus에서 jekyll 사이트? 만들기
 - \_config.yml에 아래 코드를 추가
 ```
 comment:
