@@ -26,3 +26,20 @@ comment:
 ```
 - posts.html에 disqus에서 복사한 코드 추가 후 앞에 ```{% if page.comments %}``` 뒤에 ```{% endif %}``` 추가
 - post를 작성할 때 ```comments: true```를 입력하면 해당 post에 댓글 기능 추가 
+
+
+## Local에서 실행
+- ```bundle exec jekyll serve``` 입력했는데 ```append --trace``` 어쩌고하면서 오류 발생
+- ```bundle add webrick``` 입력해 ```Gemfile```에 ```gem "webrick", "~> 1.7"```` 추가
+- 다시 ```bundle exec jekyll serve``` 입력
+- 실행 잘 됨
+
+
+## remote reposition에 반영
+- ```git add .```
+- ```git commit -m "message"```
+- ```git push origin main```
+
+
+## 홈페이지 접속
+- ```https://ljh37694.github.io```에 접속
