@@ -35,7 +35,7 @@ comment:
 - 실행 잘 됨
 
 
-## remote reposition에 반영
+## remote repository에 반영
 - ```git add .```
 - ```git commit -m "message"```
 - ```git push origin main```
