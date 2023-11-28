@@ -2,6 +2,15 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+  -title: "Language"
+    url: categories/language
+  
+  - title: "Algorithm"
+    url: categories/algorithm
+
+  - title: "Baekjoon"
+    url: categories/baekjoon
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
