@@ -288,10 +288,12 @@ defaults:
       comments: # true
       share: true
       related: true
-      mathjax: true
-      sidebar_main: true
+      sidebar:
+        nav: "sidebar-category"
       
 comment:
   provider: "disqus"
   disqus:
     shortname: "hoon37694"
+
+github: [metadata]

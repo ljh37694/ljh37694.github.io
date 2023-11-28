@@ -1,16 +1,26 @@
 # main links
-main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+# main:
+#   - title: "Quick-Start Guide"
+#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
-  -title: "Language"
-    url: categories/language
-  
+categories:
+  - title: "Language"
+    url: /categories/language/
+    category: "language"
+
   - title: "Algorithm"
-    url: categories/algorithm
+    url: /categories/algorithm/
+    category: "algorithm"
 
   - title: "Baekjoon"
-    url: categories/baekjoon
+    url: /categories/baekjoon/
+    category: "baekjoon"
+
+  - title: "Project"
+    url: /categories/project/
+    category: "project"
+
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
