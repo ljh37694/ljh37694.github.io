@@ -8,4 +8,6 @@ sidebar:
 ---
 
 {% assign posts = site.categories.baekjoon %}
-{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
+{% for post in posts %}
+  {% include archive-single.html type=page.entries_layout %}
+{% endfor %}
