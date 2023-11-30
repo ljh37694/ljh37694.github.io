@@ -8,24 +8,34 @@ categories:
     children:
       - title: "C++"
         url: /categories/cpp/
+        category: Cpp
+
       - title: "Python"
         url: /categories/python/
+        category: Python
+
       - title: "ETC"
         url: /categories/etc/
+        category: Etc
 
   - title: "CS"
     children:
       - title: "Algorithm"
         url: /categories/algorithm/
+        category: Algorithm
 
   - title: "Coding Test"
     children:
       - title: "BOJ"
         url: /categories/baekjoon/
+        category: Baekjoon
+
       - title: "Programmers"
         url: /categories/programmers/
+        category: Programmers
 
   - title: "ETC"
     children:
       - title: "Project"
         url: /categories/project/
+        category: Project
