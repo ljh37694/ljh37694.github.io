@@ -3,7 +3,7 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #eeeeeea1 !default;
+$background-color: #eeeeee !default;
 $text-color: #222831 !default;
 $muted-text-color: #393e46 !default;
 $primary-color: #0092ca !default;
@@ -20,8 +20,4 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
 .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
-}
-
-.page__title {
-  color: #222831;
 }
