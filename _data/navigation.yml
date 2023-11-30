@@ -22,7 +22,6 @@ categories:
     children:
       - title: "BOJ"
         url: /categories/baekjoon/
-      
       - title: "Programmers"
         url: /categories/programmers/
 

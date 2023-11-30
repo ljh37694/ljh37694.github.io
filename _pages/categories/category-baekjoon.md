@@ -1,7 +1,7 @@
 ---
 title: "Baekjoon Online Judge"
 layout: archive
-permalink: categories/baekjoon
+permalink: /categories/baekjoon
 author_profile: true
 sidebar:
   nav: "categories"
