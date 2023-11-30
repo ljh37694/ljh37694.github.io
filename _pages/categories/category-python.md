@@ -1,13 +1,13 @@
 ---
-title: "Programming Language"
+title: "Python"
 layout: archive
-permalink: /categories/language/
+permalink: /categories/python/
 author_profile: true
 sidebar:
   nav: "categories"
 ---
 
-{% assign posts = site.categories.language %}
+{% assign posts = site.categories.Python %}
 {% for post in posts %}
   {% include archive-single.html type=page.entries_layout %}
 {% endfor %}

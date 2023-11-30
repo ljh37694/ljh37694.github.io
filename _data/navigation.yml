@@ -5,27 +5,28 @@
 
 categories:
   - title: "Language"
-    url: /categories/language/
-    category: "language"
+    children:
+      - title: "C++"
+        url: /categories/cpp/
+      - title: "Python"
+        url: /categories/python/
+      - title: "ETC"
+        url: /categories/etc/
 
-  - title: "Algorithm"
-    url: /categories/algorithm/
-    category: "algorithm"
+  - title: "CS"
+    children:
+      - title: "Algorithm"
+        url: /categories/algorithm/
 
-  - title: "Baekjoon"
-    url: /categories/baekjoon/
-    category: "baekjoon"
+  - title: "Coding Test"
+    children:
+      - title: "BOJ"
+        url: /categories/baekjoon/
+      
+      - title: "Programmers"
+        url: /categories/programmers/
 
-  - title: "Project"
-    url: /categories/project/
-    category: "project"
-
-
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "ETC"
+    children:
+      - title: "Project"
+        url: /categories/project/

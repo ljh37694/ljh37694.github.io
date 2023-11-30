@@ -1,13 +1,13 @@
 ---
-title: "Project"
+title: "C++"
 layout: archive
-permalink: /categories/project/
+permalink: /categories/cpp/
 author_profile: true
 sidebar:
   nav: "categories"
 ---
 
-{% assign posts = site.categories.Project %}
+{% assign posts = site.categories.Cpp %}
 {% for post in posts %}
   {% include archive-single.html type=page.entries_layout %}
 {% endfor %}
